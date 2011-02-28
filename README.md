@@ -150,6 +150,14 @@ already set up.
   recursion. Have a care, Your Mileage May Explode.
 
 # TODO #
+* Clean up the project: I don't like symlinking ligament.js from the
+  test directory. 
+* Clean up the project: I need some kind of package mechanism to
+  create minified and packed versions of the file. 
+* Clean up the project: I need some kind of deploy mechanism to
+  publish the debug, minified and packed versions somewhere. I hear
+  github supports this kind of thing now, but I don't understand how
+  the internet works these days.
 * Clean up the DSL
 * Make as much convention over configuration as possible. Given an
   association of "owner", for example, we should be able to figure out
