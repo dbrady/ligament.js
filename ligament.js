@@ -118,5 +118,11 @@
     // ;-) - Happy little no-op! Nothing to see here yet.
   });
 
+  // ======================================================================
+  // Ligament.View
+  Ligament.View = Backbone.View.extend({
+    // ;-) - Happy little no-op! Nothing to see here yet.
+  });
+
 }());
 
